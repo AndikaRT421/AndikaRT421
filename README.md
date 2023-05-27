@@ -1,9 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 
-**AndikaRT421/AndikaRT421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **AndikaRT421/AndikaRT421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Hello World 👋, my name is Andika Rahman Teja</h1>
+###<h1 align="center">Hello World 👋, my name is Andika Rahman Teja</h1>
 <h3 align="center">いらっしゃいませ , Welcome to my Github Repository ヽ(*・ω・)ﾉ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andikart421&label=Profile%20views&color=0e75b6&style=flat" alt="andikart421" /> </p>
