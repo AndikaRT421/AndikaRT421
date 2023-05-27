@@ -6,11 +6,13 @@
 <h1 align="center">Hello World 👋, my name is Andika Rahman Teja</h1>
 <h3 align="center">いらっしゃいませ , Welcome to my Github Repository ヽ(*・ω・)ﾉ</h3>
 
+<p align="center"><img src = "https://github.com/AndikaRT421/AndikaRT421/blob/master/Emilia.gif" width = 100% height= 100%> </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andikart421&label=Profile%20views&color=0e75b6&style=flat" alt="andikart421" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andikart421" alt="andikart421" /></a> </p> -->
 
-- 📝 I’m currently studying at **Sepuluh Nopember Institute of Technology**  <img src = "https://github.com/AndikaRT421/AndikaRT421/blob/master/Emilia.gif" width = 50px height='50px'> </h1>
+- 📝 I’m currently studying at **Sepuluh Nopember Institute of Technology**
 
 - 🌱 I’m currently learning **Math and Machine Learning**
 
