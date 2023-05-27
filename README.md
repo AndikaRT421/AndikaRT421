@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andikart421" alt="andikart421" /></a> </p> -->
 
-- 📝 I’m currently studying at **Sepuluh Nopember Institute of Technology**
+- 📝 I’m currently studying at **Sepuluh Nopember Institute of Technology**  <img src = "https://github.com/AndikaRT421/AndikaRT421/blob/master/Emilia.gif" width = 50px height='50px'> </h1>
 
 - 🌱 I’m currently learning **Math and Machine Learning**
 
